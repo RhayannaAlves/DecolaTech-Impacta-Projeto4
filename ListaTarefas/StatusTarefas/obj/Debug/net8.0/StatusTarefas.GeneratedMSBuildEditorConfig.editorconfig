@@ -9,63 +9,63 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = StatusTarefas
 build_property.RootNamespace = StatusTarefas
-build_property.ProjectDir = C:\Users\r.paz.da.silva.alves\Desktop\DecolaTech-Impacta-Aulas\semana4\ListaTarefas\StatusTarefas\
+build_property.ProjectDir = C:\Users\r.paz.da.silva.alves\Desktop\DecolaTech-Impacta-Aval\DecolaTech-Impacta-Projeto4\ListaTarefas\StatusTarefas\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\r.paz.da.silva.alves\Desktop\DecolaTech-Impacta-Aulas\semana4\ListaTarefas\StatusTarefas
+build_property.MSBuildProjectDirectory = C:\Users\r.paz.da.silva.alves\Desktop\DecolaTech-Impacta-Aval\DecolaTech-Impacta-Projeto4\ListaTarefas\StatusTarefas
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/r.paz.da.silva.alves/Desktop/DecolaTech-Impacta-Aulas/semana4/ListaTarefas/StatusTarefas/Views/Home/Index.cshtml]
+[C:/Users/r.paz.da.silva.alves/Desktop/DecolaTech-Impacta-Aval/DecolaTech-Impacta-Projeto4/ListaTarefas/StatusTarefas/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/r.paz.da.silva.alves/Desktop/DecolaTech-Impacta-Aulas/semana4/ListaTarefas/StatusTarefas/Views/Home/Privacy.cshtml]
+[C:/Users/r.paz.da.silva.alves/Desktop/DecolaTech-Impacta-Aval/DecolaTech-Impacta-Projeto4/ListaTarefas/StatusTarefas/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/r.paz.da.silva.alves/Desktop/DecolaTech-Impacta-Aulas/semana4/ListaTarefas/StatusTarefas/Views/Shared/Error.cshtml]
+[C:/Users/r.paz.da.silva.alves/Desktop/DecolaTech-Impacta-Aval/DecolaTech-Impacta-Projeto4/ListaTarefas/StatusTarefas/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/r.paz.da.silva.alves/Desktop/DecolaTech-Impacta-Aulas/semana4/ListaTarefas/StatusTarefas/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/r.paz.da.silva.alves/Desktop/DecolaTech-Impacta-Aval/DecolaTech-Impacta-Projeto4/ListaTarefas/StatusTarefas/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/r.paz.da.silva.alves/Desktop/DecolaTech-Impacta-Aulas/semana4/ListaTarefas/StatusTarefas/Views/Tarefa/Create.cshtml]
+[C:/Users/r.paz.da.silva.alves/Desktop/DecolaTech-Impacta-Aval/DecolaTech-Impacta-Projeto4/ListaTarefas/StatusTarefas/Views/Tarefa/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWZhXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/r.paz.da.silva.alves/Desktop/DecolaTech-Impacta-Aulas/semana4/ListaTarefas/StatusTarefas/Views/Tarefa/Details.cshtml]
+[C:/Users/r.paz.da.silva.alves/Desktop/DecolaTech-Impacta-Aval/DecolaTech-Impacta-Projeto4/ListaTarefas/StatusTarefas/Views/Tarefa/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWZhXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/r.paz.da.silva.alves/Desktop/DecolaTech-Impacta-Aulas/semana4/ListaTarefas/StatusTarefas/Views/Tarefa/Edit.cshtml]
+[C:/Users/r.paz.da.silva.alves/Desktop/DecolaTech-Impacta-Aval/DecolaTech-Impacta-Projeto4/ListaTarefas/StatusTarefas/Views/Tarefa/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWZhXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/r.paz.da.silva.alves/Desktop/DecolaTech-Impacta-Aulas/semana4/ListaTarefas/StatusTarefas/Views/Tarefa/Index.cshtml]
+[C:/Users/r.paz.da.silva.alves/Desktop/DecolaTech-Impacta-Aval/DecolaTech-Impacta-Projeto4/ListaTarefas/StatusTarefas/Views/Tarefa/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWZhXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/r.paz.da.silva.alves/Desktop/DecolaTech-Impacta-Aulas/semana4/ListaTarefas/StatusTarefas/Views/Tarefa/TarefasConcluidas.cshtml]
+[C:/Users/r.paz.da.silva.alves/Desktop/DecolaTech-Impacta-Aval/DecolaTech-Impacta-Projeto4/ListaTarefas/StatusTarefas/Views/Tarefa/TarefasConcluidas.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWZhXFRhcmVmYXNDb25jbHVpZGFzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/r.paz.da.silva.alves/Desktop/DecolaTech-Impacta-Aulas/semana4/ListaTarefas/StatusTarefas/Views/Tarefa/TarefasPendentes.cshtml]
+[C:/Users/r.paz.da.silva.alves/Desktop/DecolaTech-Impacta-Aval/DecolaTech-Impacta-Projeto4/ListaTarefas/StatusTarefas/Views/Tarefa/TarefasPendentes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWZhXFRhcmVmYXNQZW5kZW50ZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/r.paz.da.silva.alves/Desktop/DecolaTech-Impacta-Aulas/semana4/ListaTarefas/StatusTarefas/Views/_ViewImports.cshtml]
+[C:/Users/r.paz.da.silva.alves/Desktop/DecolaTech-Impacta-Aval/DecolaTech-Impacta-Projeto4/ListaTarefas/StatusTarefas/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/r.paz.da.silva.alves/Desktop/DecolaTech-Impacta-Aulas/semana4/ListaTarefas/StatusTarefas/Views/_ViewStart.cshtml]
+[C:/Users/r.paz.da.silva.alves/Desktop/DecolaTech-Impacta-Aval/DecolaTech-Impacta-Projeto4/ListaTarefas/StatusTarefas/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/r.paz.da.silva.alves/Desktop/DecolaTech-Impacta-Aulas/semana4/ListaTarefas/StatusTarefas/Views/Shared/_Layout.cshtml]
+[C:/Users/r.paz.da.silva.alves/Desktop/DecolaTech-Impacta-Aval/DecolaTech-Impacta-Projeto4/ListaTarefas/StatusTarefas/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-8a2iqb0ygd

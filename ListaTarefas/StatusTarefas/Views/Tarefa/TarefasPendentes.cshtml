@@ -14,6 +14,9 @@
                 <th class="text-center">TarefaID</th>
                 <th class="text-center">Título</th>
                 <th class="text-center">Status</th>
+                <th class="text-center">Data Inicio</th>
+                <th class="text-center">Data Prevista Fim</th>
+                <th class="text-center">Data Fim</th>
                 <th class="text-center"></th>
             </tr>
         </thead>
@@ -27,6 +30,10 @@
                         <td class="text-center">@tarefa.TarefaId</td>
                         <td class="text-center">@tarefa.TarefaTitulo</td>
                         <td class="text-center">@tarefa.Status</td>
+                        <td class="text-center">@tarefa.DataInicio.ToString("MM/dd/yyyy")</td>
+                        <td class="text-center">@tarefa.DataPrevistaFim?.ToString("MM/dd/yyyy")</td>
+                        <td class="text-center">@tarefa.DataFim?.ToString("MM/dd/yyyy")</td>
+
                         <td class="col text-center">
                             <a asp-action="Details" asp-route-id="@tarefa.TarefaId" class="btn btn-secondary">Detalhes</a>
                             <a asp-action="Edit" asp-route-id="@tarefa.TarefaId" class="btn btn-primary">Editar</a>

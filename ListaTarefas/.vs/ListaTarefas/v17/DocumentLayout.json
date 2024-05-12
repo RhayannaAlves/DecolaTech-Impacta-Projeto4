@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\r.paz.da.silva.alves\\Desktop\\DecolaTech-Impacta-Aulas\\semana4\\ListaTarefas\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\r.paz.da.silva.alves\\Desktop\\DecolaTech-Impacta-Aval\\DecolaTech-Impacta-Projeto4\\ListaTarefas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D98453C-2F06-4F6B-8999-0F1045F4CA2A}|StatusTarefas\\StatusTarefas.csproj|c:\\users\\r.paz.da.silva.alves\\desktop\\decolatech-impacta-aval\\decolatech-impacta-projeto4\\listatarefas\\statustarefas\\views\\tarefa\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D98453C-2F06-4F6B-8999-0F1045F4CA2A}|StatusTarefas\\StatusTarefas.csproj|solutionrelative:statustarefas\\views\\tarefa\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\r.paz.da.silva.alves\\Desktop\\DecolaTech-Impacta-Aval\\DecolaTech-Impacta-Projeto4\\ListaTarefas\\StatusTarefas\\Views\\Tarefa\\Create.cshtml",
+              "RelativeDocumentMoniker": "StatusTarefas\\Views\\Tarefa\\Create.cshtml",
+              "ToolTip": "C:\\Users\\r.paz.da.silva.alves\\Desktop\\DecolaTech-Impacta-Aval\\DecolaTech-Impacta-Projeto4\\ListaTarefas\\StatusTarefas\\Views\\Tarefa\\Create.cshtml",
+              "RelativeToolTip": "StatusTarefas\\Views\\Tarefa\\Create.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABYAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T22:55:59.75Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

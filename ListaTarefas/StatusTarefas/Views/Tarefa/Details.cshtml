@@ -12,8 +12,9 @@
         <ul class="list-group">
             <li class="list-group-item">ID: @Model.TarefaId</li>
             <li class="list-group-item">Título: @Model.TarefaTitulo</li>
-            <li class="list-group-item">Data de ínicio: @Model.DataInicio</li>
-            <li class="list-group-item">Data fim: @Model.DataFim</li>
+            <li class="list-group-item">Data de ínicio: @Model.DataInicio.ToString("MM/dd/yyyy")</li>
+            <li class="list-group-item">Data prevista fim: @Model.DataPrevistaFim?.ToString("MM/dd/yyyy")</li>
+            <li class="list-group-item">Data fim: @Model.DataFim?.ToString("MM/dd/yyyy")</li>
             <li class="list-group-item">Descrição: @Model.Descricao</li>
             <li class="list-group-item">Status Tarefa: @Model.Status</li>
         </ul>

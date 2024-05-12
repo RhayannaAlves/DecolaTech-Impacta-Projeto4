@@ -58,6 +58,7 @@ namespace StatusTarefas.Controllers
                     existingtarefa.Descricao = tarefa.Descricao;
                     existingtarefa.DataInicio = tarefa.DataInicio;
                     existingtarefa.DataFim = tarefa.DataFim;
+                    existingtarefa.DataPrevistaFim = tarefa.DataPrevistaFim;
                     existingtarefa.Status = tarefa.Status;
                 }
                 return RedirectToAction("Index");

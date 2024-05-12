@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\r.paz.da.silva.alves\\Desktop\\DecolaTech-Impacta-Aulas\\semana4\\ListaTarefas\\StatusTarefas\\StatusTarefas.csproj": {}
+    "C:\\Users\\r.paz.da.silva.alves\\Desktop\\DecolaTech-Impacta-Aval\\DecolaTech-Impacta-Projeto4\\ListaTarefas\\StatusTarefas\\StatusTarefas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\r.paz.da.silva.alves\\Desktop\\DecolaTech-Impacta-Aulas\\semana4\\ListaTarefas\\StatusTarefas\\StatusTarefas.csproj": {
+    "C:\\Users\\r.paz.da.silva.alves\\Desktop\\DecolaTech-Impacta-Aval\\DecolaTech-Impacta-Projeto4\\ListaTarefas\\StatusTarefas\\StatusTarefas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\r.paz.da.silva.alves\\Desktop\\DecolaTech-Impacta-Aulas\\semana4\\ListaTarefas\\StatusTarefas\\StatusTarefas.csproj",
+        "projectUniqueName": "C:\\Users\\r.paz.da.silva.alves\\Desktop\\DecolaTech-Impacta-Aval\\DecolaTech-Impacta-Projeto4\\ListaTarefas\\StatusTarefas\\StatusTarefas.csproj",
         "projectName": "StatusTarefas",
-        "projectPath": "C:\\Users\\r.paz.da.silva.alves\\Desktop\\DecolaTech-Impacta-Aulas\\semana4\\ListaTarefas\\StatusTarefas\\StatusTarefas.csproj",
+        "projectPath": "C:\\Users\\r.paz.da.silva.alves\\Desktop\\DecolaTech-Impacta-Aval\\DecolaTech-Impacta-Projeto4\\ListaTarefas\\StatusTarefas\\StatusTarefas.csproj",
         "packagesPath": "C:\\Users\\r.paz.da.silva.alves\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\r.paz.da.silva.alves\\Desktop\\DecolaTech-Impacta-Aulas\\semana4\\ListaTarefas\\StatusTarefas\\obj\\",
+        "outputPath": "C:\\Users\\r.paz.da.silva.alves\\Desktop\\DecolaTech-Impacta-Aval\\DecolaTech-Impacta-Projeto4\\ListaTarefas\\StatusTarefas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\r.paz.da.silva.alves\\AppData\\Roaming\\NuGet\\NuGet.Config",
